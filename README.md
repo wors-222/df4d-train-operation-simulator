@@ -1,5 +1,9 @@
 # DF4D 列车运行操纵模拟仿真系统
 
+> **DF4D Train Operation Simulator** — A teaching simulation of train traction, braking and automatic driving based on China's *Railway Traction Calculation Regulations* (TB/T 1407).
+
+**关键词 / Keywords：** 列车牵引计算 · 列车运行控制 · DF4D 内燃机车 · 自动驾驶 · ATP 超速防护 · traction calculation · train simulator
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PySide6](https://img.shields.io/badge/GUI-PySide6-green)
 ![Matplotlib](https://img.shields.io/badge/绘图-Matplotlib-orange)
