@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# 运行导出物
+运行图_*.png
+运行图_*.csv
+*.csv
+!docs/**/*.csv
+_tmp_* 

@@ -1,0 +1,6 @@
+运行方法：
+1. 安装依赖：pip install -r requirements.txt
+2. 运行程序：python main.py
+3. （可选）运行自动化回归测试：python tests/test_simulation.py
+
+详细说明见 README.md。
