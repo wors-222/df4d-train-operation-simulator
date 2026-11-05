@@ -1,5 +1,11 @@
 # DF4D 列车运行操纵模拟仿真系统
 
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![PySide6](https://img.shields.io/badge/GUI-PySide6-green)
+![Matplotlib](https://img.shields.io/badge/绘图-Matplotlib-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Tests](https://img.shields.io/badge/tests-44%20passed-brightgreen)
+
 基于 **Python + PySide6 + Matplotlib** 开发的列车运行操纵教学模拟软件，严格遵循《列车牵引计算规程》(TB/T 1407) 的牵引力、阻力与制动计算体系。本项目为"列车运行控制技术"课程作业的持续完善版。
 
 ![主界面](docs/screenshots/01_initial.png)
@@ -95,3 +101,7 @@ train_control/
 
 - 本项目用于列车牵引计算教学与演示，牵引/制动参数为教学简化取值，不代表任何真实机车的完整性能
 - 有功电流特性采用"电流与轮周牵引力成正比"的教学简化模型
+
+## 许可证
+
+[MIT](LICENSE) — 可自由学习、修改与分发，请注明出处。
